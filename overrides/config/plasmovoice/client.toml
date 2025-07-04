@@ -25,9 +25,9 @@ stereo_capture = false
 
 [voice.volumes.proximity]
 volume = 1.0
-[voice.volumes.groups]
-volume = 1.0
 [voice.volumes.whisper]
+volume = 1.0
+[voice.volumes.groups]
 volume = 1.0
 [voice.volumes.priority]
 volume = 1.0
