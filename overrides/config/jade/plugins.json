@@ -98,6 +98,9 @@
     "hud": true,
     "hud.redstone": true
   },
+  "autoleveling": {
+    "level": true
+  },
   "twilightforest": {
     "quest_ram_wool": true
   },
