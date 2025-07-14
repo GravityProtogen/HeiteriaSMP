@@ -59,6 +59,6 @@ overlay_style = "NAME_SKIN"
 
 [overlay.source_states]
 proximity = "OFF"
-groups = "WHEN_TALKING"
 whisper = "OFF"
+groups = "WHEN_TALKING"
 priority = "OFF"
