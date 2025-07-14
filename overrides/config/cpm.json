@@ -1,7 +1,33 @@
 {
   "editorLastVersion": "0.6.22a",
-  "editorRecentProjects": [],
+  "keybindPerModel": {},
+  "playerSettings": {},
+  "globalSettings": {
+    "safetyProfile": "off"
+  },
+  "blockedList": {},
+  "modelProperties": {
+    "1012222252218": {
+      "values": {}
+    }
+  },
+  "serverSettings": {
+    "eua4.xmxcloud.net": {}
+  },
+  "editorSelectMouseButton": 0.0,
   "titleScreenButton": true,
-  "serverSettings": {},
-  "keybinds": {}
+  "keybinds": {},
+  "friendSettings": {},
+  "editorDragMouseButton": -1.0,
+  "editorMenuMouseButton": 1.0,
+  "editorRotateMouseButton": 2.0,
+  "editorRecentProjects": [
+    "D:\\Midia\\SMPs\\Automata\\Moderator Stuff\\Skins\\arirplushie.cpmproject",
+    "D:\\Midia\\SMPs\\Automata\\Moderator Stuff\\Npcs\\Skins\\2B.cpmproject",
+    "D:\\Midia\\SMPs\\Heitéria\\Semideuses\\Kairos\\Kairos.cpmproject"
+  ],
+  "safetyProfiles": {},
+  "friendList": {},
+  "selectedModel": "Kairos.cpmmodel",
+  "editorUVAreaAlpha": 0.8
 }
