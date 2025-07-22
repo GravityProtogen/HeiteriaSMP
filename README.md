@@ -5,7 +5,7 @@
     <br>
     <a href="https://www.curseforge.com/minecraft/modpacks/heiteriasmp"><img src="http://cf.way2muchnoise.eu/title/heiteriasmp.svg?badge_style=for_the_badge" alt="CurseForge"></a>
 </h1>
-
+https://discord.gg/WEPCNNxEuC (discord shield soon)
 
 # HeiteriaSMP
 Modpack Oficial do HeiteriaSMP / Official Modpack for HeiteriaSMP 
